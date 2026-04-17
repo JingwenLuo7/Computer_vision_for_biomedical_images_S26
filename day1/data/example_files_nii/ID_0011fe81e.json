@@ -1,0 +1,9 @@
+{
+	"Modality": "CR",
+	"BodyPart": "CHEST",
+	"SeriesDescription": "view: PA",
+	"ProtocolName": "view: PA",
+	"SeriesNumber": 1,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20241211"
+}
